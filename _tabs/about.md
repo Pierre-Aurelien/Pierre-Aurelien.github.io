@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 <span style="color:navy;font-size:23px"> **Computational biologist integrating high throughput experiments and machine learning to decode Life’s complexity.**</span>
