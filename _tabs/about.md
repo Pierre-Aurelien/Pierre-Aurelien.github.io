@@ -4,19 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-<span style="color:navy;font-size:23px"> **Computational biologist integrating high throughput experiments and machine learning to decode Life’s complexity.**</span>
-
-
-Welcome to my personal page! As of May 2023, I am a postdoctoral researcher at the University of Bristol's institute of statistical mathematics, under the guidance of Christophe Andrieu. Before that, I was a PhD student in the biocompute lab at the University of Bristol led by Thomas Gorochowski.
-
-My research interests lie primarily in computational biology, machine learning, and statistics. I am particularly fond of methods using high-throughput datasets (experimental and/or simulation-based) to probe molecular mechanisms. During my PhD, I studied RNA-mediated gene regulation to accelerate the design of synthetic biological sequences. Using machine learning techniques, I explored how to map RNA sequences to protein abundances leveraging vast datasets.
-
-Currently, I am researching generative models (mostly diffusion-based) with applications to macromolecular design (Proteins, RNA).
-Do not hesitate to contact me to discuss any projects! (email: ys18223 (at) bris.ac.uk). Here are some relevant links: [gitlab](https://gitlab.com/Pierre-Aurelien), [LinkedIn](https://uk.linkedin.com/in/pagilliot), [CV](https://drive.google.com/file/d/1oZnob1PKZo2IIqvxMaSDjx02oCiGeZju/view?usp=share_link)
-
-Happy Browsing!
-
-
 
 ## Publications
 
