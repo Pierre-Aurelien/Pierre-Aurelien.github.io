@@ -14,8 +14,11 @@ order: 1
 - Pierre-Aurélien Gilliot, Thomas E Gorochowski. *Sequencing enabling design and learning in synthetic biology*. **Current Opinion in Chemical Biology,** 58, 54–62 (2020). [[paper](https://www.sciencedirect.com/science/article/pii/S1367593120300855)][[pdf](https://drive.google.com/file/d/1OJIk1h74ZBPAk9wRvSTTB2aOoTkHhs70/view?usp=drive_link)]
 
 
-## Conferences
+## Conference and Talks
 
+- **Generative Modelling Reading Group, November 2023**: *Introduction to diffusion models***.** [[slides](https://drive.google.com/file/d/1RzJbjQDSINRUoNHYqSMvqaF8M6wRpry7/view?usp=share_link)]
+- **PhD Viva, September 2023**: *Data centric approaches to
+genetic part design***.** [[slides](https://drive.google.com/file/d/1eGPCnC6TLDBQ8HtAZdasCG4llyp06nqq/view?usp=share_link)]
 - **2023 ICML Workshop on Computational Biology, Honolulu**: *Come with the Sequence, Stay for the Structure: RNA Conformational Learning to Predict Protein Expression***.** [[pdf](https://www.overleaf.com/read/vkwgctjghsfj)][[poster](https://drive.google.com/file/d/1Mh5Jm7uenwpeCEQJi0mEwvdH9aw_Vwz5/view?usp=drive_link)]
 - **2023 Turing workshop on AI, Engineering Biology & Beyond, Edinburgh.** *Transfer learning for the design of genetic parts.* [[slides](https://drive.google.com/file/d/1chf68Tc12yDhc1YMSXWbeqouCL3mZ0KP/view?usp=drive_link)]
 - **2022 5th Annual Machine Learning and AI In (Bio)Chemical Engineering Conference, Cambridge**.  *Systemic comparison of neural network architectures for protein expression prediction in bacteria*. [[slides](https://drive.google.com/file/d/1UMG6e6NJ5A2RucZss7uEXjndsSm6VPBe/view?usp=drive_link)]
